@@ -6,5 +6,6 @@ These are the instructions for installing your product.
 3. ???
 4. profit
 
+TODO: Andrew got 1 line into writing install instructions before giving up
 # Uninstall
-1. never...
+- Run `rm -rf /usr/bin/our_product`
