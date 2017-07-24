@@ -1,7 +1,10 @@
 These are the instructions for installing your product.
 
 # Install
-TODO: write instructions explaining how to install the product
+1. download
+2. double click exe
+3. ???
+4. profit
 
 # Uninstall
-TODO: tell people how to uninstall the product
+1. never...
